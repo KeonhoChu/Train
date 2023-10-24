@@ -1,4 +1,4 @@
-#딥러닝, 머신러닝을 학습한 자료이다. 
+ # 딥러닝, 머신러닝을 학습한 자료이다. 
 
   -  Cifar10 with VGG19 Network
   -  Cifar10 with Alexnet 
